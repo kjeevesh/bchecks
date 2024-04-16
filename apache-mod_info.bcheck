@@ -1,8 +1,8 @@
 metadata:
     language: v1-beta
     name: "Apache mod_info"
-    description: "Check for Apache's mod_info pages"
-    author: "pyllyukko"
+    description: "Test Bcheck:Check for Apache's mod_info pages"
+    author: "jeevesh"
 
 run for each:
     potential_path =
